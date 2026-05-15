@@ -9,7 +9,7 @@
 
 Kyle Jensen · Virginia Beach, VA
 
-Strategy and applied execution. AI is the execution layer.
+Strategy. Execution.
 
 [jensenoperations.com](https://jensenoperations.com)
 
