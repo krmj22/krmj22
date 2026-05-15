@@ -7,9 +7,9 @@
 
 <br />
 
-Kyle Jensen · Virginia Beach, VA
-
 Strategy. Execution.
+
+Kyle Jensen · Virginia Beach, VA
 
 [jensenoperations.com](https://jensenoperations.com)
 
