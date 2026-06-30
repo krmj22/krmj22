@@ -1,13 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="wordmark-inverted.svg">
-  <img src="wordmark.svg" alt="Jensen Operations" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" alt="Jensen Operations — Strategy. Execution. Clear intent. Defined success. Fast iterations.">
 </picture>
-
-<br />
-
-Strategy. Execution.
 
 Kyle Jensen · Virginia Beach, VA
 
