@@ -13,6 +13,6 @@ Kyle Jensen · Virginia Beach, VA
 
 [jensenoperations.com](https://jensenoperations.com)
 
-![profile views](https://krmj22-profile-views.krmj22.workers.dev/badge.svg)
-
 </div>
+
+<img src="https://krmj22-profile-views.krmj22.workers.dev/pixel.gif" width="1" height="1" alt="" />
